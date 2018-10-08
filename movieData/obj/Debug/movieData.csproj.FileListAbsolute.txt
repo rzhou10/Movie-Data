@@ -1,0 +1,7 @@
+c:\users\class2018\source\repos\movieData\movieData\bin\Debug\movieData.exe.config
+c:\users\class2018\source\repos\movieData\movieData\bin\Debug\movieData.exe
+c:\users\class2018\source\repos\movieData\movieData\bin\Debug\movieData.pdb
+c:\users\class2018\source\repos\movieData\movieData\obj\Debug\movieData.csprojAssemblyReference.cache
+c:\users\class2018\source\repos\movieData\movieData\obj\Debug\movieData.csproj.CoreCompileInputs.cache
+c:\users\class2018\source\repos\movieData\movieData\obj\Debug\movieData.exe
+c:\users\class2018\source\repos\movieData\movieData\obj\Debug\movieData.pdb
