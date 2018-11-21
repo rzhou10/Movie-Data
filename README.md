@@ -16,37 +16,33 @@ This is a collection of movies that I have watched over the course of my life. W
 
 The average runtime is about 119 minutes, with the shortest being 101 Dalmatians (79 min) and the longest being Gone with the Wind (238 min).
 
-The average domestic gross is $154,733,129, with the lowest being Ip Man 2 ($205,675) and the highest being Star Wars the Force Awakens ($936,662,225).
+The average domestic gross is $151,485,429, with the lowest being Ip Man 2 ($205,675) and the highest being Star Wars the Force Awakens ($936,662,225).
 
 The top five counts for Directors, Ratings, Genre, Years, Franchises, and Studios are listed below. To see the full list, take a look at the Excel file.
 
-The average domestic gross is $156,177,730, with the lowest being Ip Man 2 ($205,675) and the highest being Star Wars the Force Awakens ($936,662,225).
-
-The top five counts for Directors, Ratings, Genre, and Years are listed below. To see the full list look at the Excel file.
-
 | Directors  | Count |
 | ------------- | ------------- |
-| Steven Spielberg  | 11  |
+| Steven Spielberg  | 12  |
 | Christopher Nolan | 7  |
 | Quentin Tarantino  | 7  | 
-| David Fincher  | 6  |
 | Sam Raimi  | 6  |
+| David Fincher  | 6  |
 
 | Rating  | Count |
 | ------------- | ------------- |
-| R  | 149  |
-| PG-13 | 112  |
-| PG  | 57  |
+| R  | 162  |
+| PG-13 | 121  |
+| PG  | 68  |
 | G  | 19  |
 | UR (Unrated)  | 3  |
 
 | Genre  | Count |
 | ------------- | ------------- |
-| Action  | 111  |
-| Drama  | 40  |
-| Animation | 38  |
+| Action  | 117  |
+| Drama  | 43  |
+| Animation | 43  |
 | Comedy | 31  |
-| Crime  | 27  |
+| Crime  | 29  |
 
 | Years  | Count |
 | ------------- | ------------- |
@@ -58,17 +54,16 @@ The top five counts for Directors, Ratings, Genre, and Years are listed below. T
 
 | Franchise  | Count |
 | ------------- | ------------- |
-| - (not a part of a franchise)  | 90  |
-| (adaptation) | 66  |
+| - (not a part of a franchise)  | 98  |
+| (adaptation) | 76  |
+| (biography)  | 19 |
 | Marvel Cinematic Universe  | 18  |
-| (biography)  | 16 |
 | Harry Potter  | 9  |
 
 | Studio  | Count |
 | ------------- | ------------- |
-| Warner Bros.  | 64  |
-| Disney | 48  |
-| Fox  | 41  |
-| Sony  | 35  |
-| Universal  | 30  |
-| 2017  | 13  |
+| Warner Bros.  | 67  |
+| Disney | 55  |
+| Fox  | 44  |
+| Sony  | 39  |
+| Universal  | 34  |

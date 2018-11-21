@@ -14,7 +14,7 @@ namespace movieData
         private string HighestFilm { get; set; }
         private string LowestFilm { get; set; }
         private int MinGross { get; set; }
-        private double RunAvg { get; set; }
+        private BigInteger RunAvg { get; set; }
         private string LongestFilm { get; set; }
         private string ShortestFilm { get; set; }
         private int MaxRun { get; set; }
@@ -175,7 +175,7 @@ namespace movieData
             RunAvg = sum / arr.Length;
         }
 
-        public double GetRunAvg()
+        public BigInteger GetRunAvg()
         {
             return RunAvg;
         }
