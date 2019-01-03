@@ -1,7 +1,8 @@
 # Movie Data
 
-## Updated Oct. 11, 2018 ##
+## Updated Jan. 3, 2019 ##
 
+### This has been archived because nothing will change except the data. If you would keep up with new stats, send me a message and I will send you the updated Excel. If you would like to make any changes to the code, also feel free to send a message, and I may unarchive it.
 
 This is a collection of movies that I have watched over the course of my life. With over 300 movies analyzed, the following were collected:
 
@@ -30,19 +31,19 @@ The top five counts for Directors, Ratings, Genre, Years, Franchises, and Studio
 
 | Rating  | Count |
 | ------------- | ------------- |
-| R  | 162  |
-| PG-13 | 121  |
-| PG  | 68  |
+| R  | 167  |
+| PG-13 | 127  |
+| PG  | 74  |
 | G  | 19  |
 | UR (Unrated)  | 3  |
 
 | Genre  | Count |
 | ------------- | ------------- |
-| Action  | 117  |
-| Drama  | 43  |
+| Action  | 118  |
+| Drama  | 44  |
 | Animation | 43  |
-| Comedy | 31  |
-| Crime  | 29  |
+| Comedy | 36  |
+| Crime  | 30  |
 
 | Years  | Count |
 | ------------- | ------------- |
@@ -54,16 +55,26 @@ The top five counts for Directors, Ratings, Genre, Years, Franchises, and Studio
 
 | Franchise  | Count |
 | ------------- | ------------- |
+| Marvel Cinematic Universe  | 18  |
+| Harry Potter  | 9  |
+| Star Wars  | 9  |
+| X-Men  | 7  |
+| DC Extended Universe  | 5  |
+
+* Note: The actual top 3 for the franchise category are as follows: 
+
+| Franchise  | Count |
+| ------------- | ------------- |
 | - (not a part of a franchise)  | 98  |
 | (adaptation) | 76  |
 | (biography)  | 19 |
-| Marvel Cinematic Universe  | 18  |
-| Harry Potter  | 9  |
+
+They were not included as they are not a franchise
 
 | Studio  | Count |
 | ------------- | ------------- |
-| Warner Bros.  | 67  |
-| Disney | 55  |
-| Fox  | 44  |
-| Sony  | 39  |
-| Universal  | 34  |
+| Warner Bros.  | 71  |
+| Disney | 57  |
+| Fox  | 45  |
+| Sony  | 41  |
+| Universal  | 38  |
